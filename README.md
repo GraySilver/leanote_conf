@@ -4,6 +4,7 @@
 
 **使用方法**
 将该.css文件**替代** leanote/resources/app/public/themes/markdown/default/index.css 
+将该.less文件**替代** leanote/resources/app/public/themes/markdown/default/index.less
 
 **样式展示**
 
