@@ -4,9 +4,17 @@
 
 **使用方法**
 
-将该.css文件**替代** leanote/resources/app/public/themes/markdown/default/index.css 
+将该index.css文件**替代** leanote/resources/app/public/themes/markdown/default/index.css 
 
-将该.less文件**替代** leanote/resources/app/public/themes/markdown/default/index.less
+将该index.less文件**替代** leanote/resources/app/public/themes/markdown/default/index.less
+
+将该default.css文件**替代** leanote/resources/app/public/themes/default.css
+
+将该writting.css文件**替代** leanote/resources/app/public/themes/writting.css
+
+将该bootstrap.css文件**替代** leanote/resources/app/public/css-libs/bootstrap.css
+
+
 
 **样式展示**
 
